@@ -12,7 +12,7 @@
 I'm a communication and electronics student who is passionate about Embedded Software.
 
 - 🎓 &nbsp; I’m Graduated from Aiet.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Software , Embedded Linux and AUTOSAR and Automotive. 
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/mohamed-shalpy-8294aa291) [Icloud](mohamedfoxxi42@icloud.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
@@ -36,7 +36,7 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 
 ### 📊 Profile stats
 
-[![Mahmoud Karem 's github stats](https://github-readme-stats.vercel.app/api?username=MohamedShalpy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MohamedShalpy/github-readme-stats)
+[![Mohamed shalpy 's github stats](https://github-readme-stats.vercel.app/api?username=MohamedShalpy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MohamedShalpy/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
