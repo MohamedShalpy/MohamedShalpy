@@ -2,17 +2,17 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h2> Hey there! I'm Mohamed shalpy.</h2>
+<h2> Hey there! I'm Mohamed shalaby.</h2>
 
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communication and electronics student who is passionate about Embedded Software.
+I'm a Software Tester Manual Testing Mobile and Web , Automation , Api and RestAssured .
 
 - 🎓 &nbsp; I’m Graduated from Aiet.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Software , Embedded Linux and AUTOSAR and Automotive. 
+- 🌱 &nbsp; Learning more about Automation Framwork Like Cucumber , playwright. 
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/mohamed-shalpy-8294aa291) [Icloud](mohamedfoxxi42@icloud.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
@@ -23,6 +23,10 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🔧 &nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
+
+
 
   
 <br/>
@@ -30,13 +34,13 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed Shalpy" alt="Mohamed Shalpy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed Shalpy" alt="Mohamed Shalaby" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📊 Profile stats
 
-[![Mohamed shalpy 's github stats](https://github-readme-stats.vercel.app/api?username=MohamedShalpy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MohamedShalpy/github-readme-stats)
+[![Mohamed shalaby 's github stats](https://github-readme-stats.vercel.app/api?username=MohamedShalpy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MohamedShalpy/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
